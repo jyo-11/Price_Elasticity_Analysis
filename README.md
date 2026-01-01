@@ -120,16 +120,5 @@ jupyter notebook notebooks/eda.ipynb
 * Focused on modeling correctness and analytical clarity
 * Designed to reflect real-world pricing analytics workflows
 
----
 
-### ⭐ This README is **internship-grade**
 
-Clear, honest, and technically sound.
-
-If you want next:
-
-* 🔹 Resume bullet refinement
-* 🔹 Naukri / LinkedIn project description
-* 🔹 Streamlit extension (optional, adds value)
-
-Just tell me.
